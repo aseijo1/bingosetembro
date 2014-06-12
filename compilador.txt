@@ -1,0 +1,5 @@
+compilar concurrente
+sudo /opt/pascalfc/pfc/bin/console/pfccomp programa.pas listado_erros.ls programa.obj
+
+executar binario
+sudo /opt/pascalfc/pfc/bin/console/pint
