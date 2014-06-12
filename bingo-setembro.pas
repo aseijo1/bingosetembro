@@ -1,5 +1,5 @@
 program bingo3;
-{Mar 07 Xan 2014 21:10 CET }
+{ENTREGADO 07 Xan 2014}
 
 Const
      MaxNum= 12;{bolas carton}
